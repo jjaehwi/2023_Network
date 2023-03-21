@@ -1,3 +1,4 @@
+// ssu20180598 이재휘
 #include <stdio.h>
 #include <netinet/in.h>
 #include <sys/socket.h>
@@ -41,7 +42,8 @@ int main()
 		return -1;
 	}
 
-	readLen = read(clntSd, rBuff, sizeof(rBuff) - 1);
+	// readLen = read(clntSd, rBuff, sizeof(rBuff) - 1);
+	readLen = recv(clntSd, rBuff, sizeof(rBuff) - 1, 0); // recv 는 flag 받고 따로 옵션이 없기 때문에 0 을 넣었다.
 	if (readLen == -1)
 	{
 		printf("Read Error");
@@ -50,7 +52,8 @@ int main()
 	rBuff[readLen] = '\0';
 	printf("Client: %s \n", rBuff);
 
-	write(clntSd, wBuff, sizeof(wBuff));
+	// write(clntSd, wBuff, sizeof(wBuff));
+	send(clntSd, wBuff, sizeof(wBuff), 0); // send 는 flag 받고 따로 옵션이 없기 때문에 0 을 넣었다.
 	close(clntSd);
 	close(srvSd);
 
