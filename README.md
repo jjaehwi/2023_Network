@@ -8,6 +8,6 @@
     
 - 소켓 프로그래밍
 
-[Week3 : TCP/UDP 소켓](https://github.com/jjaehwi/2023_Network/tree/main/Week3)
+[Week3 : 소켓 API](https://github.com/jjaehwi/2023_Network/tree/main/Week3)
 
 - TCP/UDP 기본, 서버 클라이언트 모델
