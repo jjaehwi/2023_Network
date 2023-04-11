@@ -8,10 +8,14 @@
 
     - [소켓 API 활용](https://github.com/jjaehwi/2023_Network/blob/main/Week3/article.md)
 
-    - TCP 기본, 서버 클라이언트 모델
+    - [TCP 기본, 서버 클라이언트 모델, Iterative 서버 모델](https://github.com/jjaehwi/2023_Network/blob/main/Week3/article2.md)
 
 - **Week4 : UDP 소켓 / Advanced 소켓**
 
     - [UDP 소켓](https://github.com/jjaehwi/2023_Network/blob/main/Week4/article.md)
 
-    - Advanced 소켓
+    - [Advanced 소켓](https://github.com/jjaehwi/2023_Network/blob/main/Week4/article2.md)
+
+- **Week5 :**
+
+- **Week6 :**
