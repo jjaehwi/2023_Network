@@ -18,6 +18,8 @@
 
 - **Week5 : 멀티 프로세스와 프로세스 통신**
 
-    - [멀티 프로세스](https://github.com/jjaehwi/2023_Network/blob/main/Week5/article.md)
+    - [Multi - Process](https://github.com/jjaehwi/2023_Network/blob/main/Week5/article.md)
 
-- **Week6 :**
+- **Week6 : 멀티쓰레드 멀티플렉싱**
+
+    - [Multi Thread & Multiplexing](https://github.com/jjaehwi/2023_Network/blob/main/Week6/article.md)
