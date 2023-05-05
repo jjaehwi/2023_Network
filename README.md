@@ -29,3 +29,15 @@
   - [Basic Chatting APP](https://github.com/jjaehwi/2023_Network/blob/main/Week7/article.md)
 
   - [Epoll Raw Socket - epoll을 활용한 입출력 처리](https://github.com/jjaehwi/2023_Network/blob/main/Week7/article2.md)
+
+- **Week9 : Packet Socket, 에러 처리**
+
+  - [Error, IPv6 and Packet Socket](https://github.com/jjaehwi/2023_Network/blob/main/Week9/article.md)
+
+  - [응용 프로그램 실습 1 - DNS (1)](https://github.com/jjaehwi/2023_Network/blob/main/Week9/article2.md)
+
+- **Week10 : 응용 프로그램 구현 및 테스트**
+
+  - 응용 프로그램 실습 1 - DNS (2)
+
+  - 응용 프로그램 실습 2 - Simple Web Server, HTTP basic
