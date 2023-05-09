@@ -44,4 +44,6 @@
 
     - DNS message format, A DNS query program
 
-  - 응용 프로그램 실습 2 - Simple Web Server, HTTP basic
+  - [응용 프로그램 실습 2 - Simple Web Server, HTTP basic](https://github.com/jjaehwi/2023_Network/blob/main/Week10/article2.md)
+
+    - HTTP and Web Client (1) : HTTP protocol
