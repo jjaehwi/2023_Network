@@ -47,3 +47,13 @@
   - [응용 프로그램 실습 2 - Simple Web Server, HTTP basic](https://github.com/jjaehwi/2023_Network/blob/main/Week10/article2.md)
 
     - HTTP and Web Client (1) : HTTP protocol
+
+- **Week11 : 응용 프로그램 구현 및 테스트**
+
+  - [응용 프로그램 실습 2 - Simple Web Server, HTTP basic](https://github.com/jjaehwi/2023_Network/blob/main/Week11/article.md)
+
+    - HTTP and Web Client (2) : A web client, HTTP POST requests
+
+  - [응용 프로그램 실습 3 - OpenSSL (Security), HTTPS](https://github.com/jjaehwi/2023_Network/blob/main/Week11/article2.md)
+
+    - 보안 기본 개념 (1)
