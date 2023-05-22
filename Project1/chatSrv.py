@@ -102,4 +102,13 @@ def runServer():
         server.server_close()
 
 
-runServer()
+# server run 을 위한 스레드 생성
+server_thread = threading.Thread(target=runServer)
+
+# 생성한 스레드 start
+server_thread.start()
+
+# 메인 스레드에서 추가 동작 ..
+
+# server thread 완료 기다림
+server_thread.join()
