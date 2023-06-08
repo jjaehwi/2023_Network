@@ -54,6 +54,22 @@
 
     - HTTP and Web Client (2) : A web client, HTTP POST requests
 
-  - [응용 프로그램 실습 3 - OpenSSL (Security), HTTPS](https://github.com/jjaehwi/2023_Network/blob/main/Week11/article2.md)
+  - 응용 프로그램 실습 3 - OpenSSL (Security), HTTPS
 
-    - 보안 기본 개념 (1)
+    - [보안 기본 개념 (1)](https://github.com/jjaehwi/2023_Network/blob/main/Week11/article2.md)
+
+- **Week12 : 응용 프로그램 구현 및 테스트**
+
+  - 응용 프로그램 실습 3 - OpenSSL (Security), HTTPS
+
+    - [보안 기본 개념 (2)](https://github.com/jjaehwi/2023_Network/blob/main/Week12/article.md)
+
+- **Week13 : 응용 프로그램 구현 및 테스트**
+
+  - 응용 프로그램 실습 3 - OpenSSL (Security), HTTPS
+
+    - [네트워크 보안 기초]
+
+    - [Basic OpenSSL]
+
+    - [TLS 서버 구축]
