@@ -68,8 +68,8 @@
 
   - 응용 프로그램 실습 3 - OpenSSL (Security), HTTPS
 
-    - [네트워크 보안 기초]
+    - [네트워크 보안 기초 : TLS](https://github.com/jjaehwi/2023_Network/blob/main/Week13/article.md)
 
-    - [Basic OpenSSL]
+    - [Basic OpenSSL](https://github.com/jjaehwi/2023_Network/blob/main/Week13/article2.md)
 
-    - [TLS 서버 구축]
+    - [TLS 서버 구축](https://github.com/jjaehwi/2023_Network/blob/main/Week13/article3.md)
